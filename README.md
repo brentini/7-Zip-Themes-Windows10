@@ -10,11 +10,11 @@ Homepage: http://c3powen.deviantart.com/art/Windows-10-7-Zip-toolbar-theme-60299
 
 ## Install 
 
-```
+
 Copy `filetype` and `toolbar` directories  and `7zTM.exe` file to `%ProgramFiles%\7-Zip` PATH.
 Run `7zTM.exe` file as Administrator and select "Windows 10" in both categories.
 Click "Activate Theme" to apply the theme to 7-Zip.
-```
+
 
 Checksums
 ```
