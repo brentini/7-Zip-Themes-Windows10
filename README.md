@@ -1,12 +1,14 @@
 # 7-Zip Filetype Theme - Windows 10
 
+![screenshot](http://orig10.deviantart.net/ab9f/f/2015/215/2/a/7_zip_filetype_theme___windows_10_by_masamunecyrus-d93yxyk.png)
+
 Homepage: http://masamunecyrus.deviantart.com/art/7-Zip-Filetype-Theme-Windows-10-550864748
 
+# 7-Zip toolbar theme - Windows 10
 
-# Windows 10- 7-Zip toolbar theme
+![screenshot](http://orig14.deviantart.net/bde3/f/2016/110/e/5/windows_10_7_zip_toolbar_theme_by_c3powen-d9z0bsg.png)
 
 Homepage: http://c3powen.deviantart.com/art/Windows-10-7-Zip-toolbar-theme-602997424
-
 
 ## Install 
 
